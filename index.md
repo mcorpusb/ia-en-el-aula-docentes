@@ -19,11 +19,13 @@ Este espacio reúne los materiales del seminario en una versión independiente p
 
 - [Bloque 0 · ¿Qué es la IA?]({{ '/modulo-0-que-es-la-ia.html' | relative_url }})
 - [Bloque 1 · IA Colaborativa y Gestión GVA]({{ '/bloque1.html' | relative_url }})
+- [Bloque 2 · Prompting avanzado y gestión documental]({{ '/bloque2.html' | relative_url }})
 
 ## Qué encontrarás
 
 - Una introducción clara a la inteligencia artificial generativa.
 - Un bloque práctico sobre conversación, contexto y revisión de resultados.
+- Un bloque avanzado para trabajar con documentos, fuentes, normativa y Gemini Notebook.
 - Actividades organizadas por tipos de recursos y necesidades docentes.
 
 ## Organización del Bloque 1
