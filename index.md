@@ -5,21 +5,22 @@ nav_order: 1
 nav_exclude: false
 ---
 
-# Seminario de Inteligencia Artificial · IES Gran Vía
+# IA en el Aula: Herramientas y Recursos para Docentes
 {: .fs-8 }
 
-Materiales y actividades del seminario de inteligencia artificial para docentes del IES Gran Vía.
+Formación práctica en inteligencia artificial para docentes: herramientas, recursos y actividades aplicables al aula.
 {: .fs-5 .fw-300 }
 
 ---
 
-Este espacio reúne los materiales del seminario en una versión independiente para GitHub Pages. Aquí encontrarás los bloques del itinerario formativo, con su navegación lateral y sus actividades asociadas.
+Este espacio reúne materiales de formación docente en inteligencia artificial en una web abierta y reutilizable. Aquí encontrarás los bloques del itinerario formativo, con su navegación lateral y sus actividades asociadas.
 
 ## Accesos directos
 
 - [Bloque 0 · ¿Qué es la IA?]({{ '/modulo-0-que-es-la-ia.html' | relative_url }})
 - [Bloque 1 · IA Colaborativa y Gestión GVA]({{ '/bloque1.html' | relative_url }})
 - [Bloque 2 · Prompting avanzado y gestión documental]({{ '/bloque2.html' | relative_url }})
+- [Bloque 3 · Generación multimodal]({{ '/bloque3.html' | relative_url }})
 
 ## Qué encontrarás
 
