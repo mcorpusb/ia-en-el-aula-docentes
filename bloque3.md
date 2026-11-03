@@ -876,7 +876,7 @@ Si el contenido sintético puede parecer real, añade siempre una señal clara d
 
 ### Objetivo
 
-Diseñar al menos un recurso educativo multimodal con IA que pueda utilizarse en una situación real de aula, adaptado a la etapa educativa, materia, nivel del alumnado y diversidad del grupo.
+Diseñar tres recursos educativos con IA —un audio, un cuento y una aplicación interactiva— que puedan utilizarse en una situación real de aula, adaptados a la etapa educativa, materia, nivel del alumnado y diversidad del grupo.
 
 ### Descripción de la tarea
 
@@ -889,7 +889,7 @@ Cada docente deberá elegir:
 - Objetivo didáctico.
 - Perfil del alumnado o necesidad de adaptación.
 
-A partir de ese contexto, generará uno o varios recursos multimodales con ayuda de IA.
+A partir de ese contexto, generará los tres productos de la actividad final: un audio educativo, un cuento y una aplicación interactiva con ayuda de IA.
 
 ### Recursos posibles
 
@@ -1009,12 +1009,13 @@ Para cada versión incluye:
 
 ### Entregable
 
-Cada participante deberá entregar:
+Cada participante deberá entregar **los tres productos**:
 
-- Recurso final en formato `.pptx`, `.pdf`, `.mp3`, `.mp4`, `.html`, imagen o enlace interactivo.
-- Prompt utilizado.
-- Captura o enlace del resultado generado.
-- Breve reflexión docente de 100-150 palabras.
+- **Audio educativo:** archivo `.mp3`, `.wav` o enlace de escucha.
+- **Cuento educativo:** archivo `.pdf`, imágenes, audio narrado o enlace al cuento.
+- **Aplicación interactiva:** enlace funcional para probarla y, si procede, archivo `.html` u otros archivos exportados.
+
+Para **cada producto**, adjunta el prompt utilizado y el archivo generado y/o enlace. Añade una breve reflexión docente conjunta de 100-150 palabras.
 
 La reflexión debe responder:
 
@@ -1032,7 +1033,7 @@ La reflexión debe responder:
 
 ### Producto final esperado
 
-Al finalizar la actividad, cada docente tendrá un recurso multimodal revisado, contextualizado y listo para utilizar o adaptar en su práctica docente.
+Al finalizar la actividad, cada docente tendrá tres recursos revisados y contextualizados: un audio, un cuento y una aplicación interactiva, con sus archivos o enlaces y prompts documentados.
 ---
 
 ## 📚 Recursos complementarios
