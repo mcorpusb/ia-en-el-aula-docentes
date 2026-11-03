@@ -20,7 +20,7 @@ Crea presentaciones, cómics, infografías, podcasts, audios realistas y vídeos
 <nav class="indice-bloque" aria-label="Índice del bloque" markdown="1">
 
 - [🎯 Objetivos del bloque](#objetivos-del-bloque)
-- [🧭 Actividades prácticas por etapa]({{ '/bloque3-actividades.html' | relative_url }})
+- [🧭 Laboratorio multimodal · Retos docentes]({{ '/bloque3-actividades.html' | relative_url }})
 - [📖 3.1 · Presentaciones educativas con IA: Gamma y Copilot en PowerPoint](#31--presentaciones-educativas-con-ia-gamma-y-copilot-en-powerpoint)
 - [📖 3.2 · Cómics e ilustraciones educativas con IA](#32--cómics-e-ilustraciones-educativas-con-ia)
 - [📖 3.2b · Cómic con Gemini Notebook](#32b--cómic-con-notebooklm)
@@ -198,15 +198,11 @@ Restricciones:
 💡 También puedes crear presentaciones educativas con IA usando herramientas <a href="https://www.kimi.com/">Kimi</a>, útiles para generar estructuras, guiones, contenidos visuales y presentaciones completas a partir de texto.
 
 
-## Actividades de presentaciones por etapa
+## Actividades de presentaciones por tipo de recurso
 
-Para facilitar la navegación, las actividades de creación de presentaciones educativas con IA se han separado por etapa. En esta página dejamos los prompts generales y la comparativa de herramientas, y las actividades completas quedan enlazadas en sus páginas correspondientes.
+Para facilitar la navegación, las actividades de creación de presentaciones educativas con IA se han separado por tipo de recurso. En esta página dejamos los prompts generales y la comparativa de herramientas, y las ejemplos y retos están reunidos en el laboratorio multimodal.
 
-- [Educación Infantil](bloque3-actividad-infantil.md)
-- [Educación Primaria](bloque3-actividad-primaria.md)
-- [Educación Secundaria](bloque3-actividad-secundaria.md)
-- [Formación Profesional](bloque3-actividad-fp.md)
-- [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
+- [Explorar retos y ejemplos por tipo de recurso]({{ '/bloque3-actividades.html' | relative_url }})
   
 
 ---
@@ -293,15 +289,11 @@ Escribe el guion completo del cómic siguiendo esta estructura en cada viñeta:
 Presenta el resultado en formato de guion, dividido por viñetas, con apartados claros y ordenados.
 ```
 
-### Actividades de cómic por etapa
+### Actividades de cómic por tipo de recurso
 
-Para facilitar la navegación, las actividades de cómic educativo se han separado por etapa. En esta página dejamos un ejemplo destacado de FP como modelo, y el resto de actividades completas quedan enlazadas.
+Para facilitar la navegación, las actividades de cómic educativo se han separado por tipo de recurso. En esta página dejamos un ejemplo destacado de FP como modelo, y el otros ejemplos quedan enlazados.
 
-- [Educación Infantil](bloque3-actividad-infantil.md)
-- [Educación Primaria](bloque3-actividad-primaria.md)
-- [Educación Secundaria](bloque3-actividad-secundaria.md)
-- [Formación Profesional](bloque3-actividad-fp.md)
-- [Escuela Oficial de Idiomas](bloque3-actividad-eoi.md)
+- [Explorar retos y ejemplos por tipo de recurso]({{ '/bloque3-actividades.html' | relative_url }})
 
 ---
 ## 3.2b · Crear un cómic a partir de fuentes con NotebookLM
