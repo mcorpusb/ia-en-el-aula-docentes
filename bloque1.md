@@ -83,7 +83,7 @@ En las prácticas no introduzcas nombres reales, calificaciones, diagnósticos, 
 ## Actividades del bloque
 {: id="actividades-del-bloque" }
 
-El **Laboratorio de prompts** ofrece diez retos vinculados a las especialidades del seminario: Edificación y Obra Civil, Integración Social, Matemáticas, Tecnología, Geografía e Historia, Lengua Castellana, Música, Religión y valores, Orientación y PT, y una propuesta transversal de Educación Física. **Elige uno; explorar más es voluntario.** En 15–20 minutos compararás una petición inicial con un prompt pedagógico, iterarás y tomarás una decisión docente.
+El **Laboratorio de prompts** ofrece diez retos vinculados a las especialidades de la formación: Edificación y Obra Civil, Integración Social, Matemáticas, Tecnología, Geografía e Historia, Lengua Castellana, Música, Religión y valores, Orientación y PT, y una propuesta transversal de Educación Física. **Elige uno; explorar más es voluntario.** En 15–20 minutos compararás una petición inicial con un prompt pedagógico, iterarás y tomarás una decisión docente.
 
 [Elige uno de los diez retos del laboratorio]({{ '/bloque1-actividades.html' | relative_url }})
 
@@ -578,6 +578,6 @@ La entrega incluirá:
 Continuar con el Bloque 2 →
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
-Curso 26IA92IN041 · 2.ª edición de 2026 · CEFIRE de Inteligencia Artificial y Pensamiento Computacional<br>
+Curso formación docente · 2.ª edición de 2026 · CEFIRE de Inteligencia Artificial y Pensamiento Computacional<br>
 Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
