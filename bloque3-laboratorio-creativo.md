@@ -21,10 +21,10 @@ Del **prompt al recurso educativo**: ejemplos elaborados durante la formación y
 ## Ejemplos creados
 {: #ejemplos }
 
-| Ejemplo | Etapa | Herramienta |
+| Ejemplo | Enfoque | Herramienta |
 |:--|:--|:--|
-| [El dragón de las emociones · Cuento](#cuento-dragon) | Infantil | Gemini Storybook (beta) |
-| [El dragón de las emociones · Juego](#juego-dragon) | Infantil | Gemini Canvas |
+| [El dragón de las emociones · Cuento](#cuento-dragon) | Emociones y narración | Gemini Storybook (beta) |
+| [El dragón de las emociones · Juego](#juego-dragon) | Emociones y narración | Gemini Canvas |
 | [CyberEscape · Phishing](#cyberescape) | FP | Aplicación HTML generada con IA |
 | [MathLab · Funciones y derivadas](#mathlab) | ESO/Bachillerato | Gemini Canvas |
 | [HistoriaLab · Fuentes históricas](#historialab) | ESO | Gemini Canvas |
@@ -37,7 +37,7 @@ Del **prompt al recurso educativo**: ejemplos elaborados durante la formación y
 ## 1. El dragón de las emociones · Cuento ilustrado
 {: #cuento-dragon }
 
-**Infantil · 5 años · Gemini → Gemas → Storybook (beta).** A partir de un dibujo ficticio de un dragón verde con mochila roja, se creó un cuento sobre alegría, tristeza, miedo y calma.
+**Cuento ilustrado sobre emociones · Gemini → Gemas → Storybook (beta).** A partir de un dibujo ficticio de un dragón verde con mochila roja, se creó un cuento sobre alegría, tristeza, miedo y calma.
 
 [Abrir el cuento compartido en Gemini](https://gemini.google.com/share/d/1lg5eNZrUPCBLuq2lIuK30A2Py0L_fpCD?usp=sharing). Storybook permite exportarlo como PDF si la opción está disponible. El archivo PDF no está alojado en este repositorio.
 
@@ -64,7 +64,7 @@ Crea un cuento infantil ilustrado titulado «El dragón de las emociones» para 
 ## 2. El dragón de las emociones · Juego interactivo
 {: #juego-dragon }
 
-**Infantil · 5 años · Gemini Canvas.** Una segunda actividad con el mismo personaje: elegir emociones, recibir pistas y acompañar una respiración tranquila.
+**Juego interactivo sobre emociones · Gemini Canvas.** Una segunda actividad con el mismo personaje: elegir emociones, recibir pistas y acompañar una respiración tranquila.
 
 **Resultado:** juego creado durante el taller. Pendiente de incorporar aquí un enlace público verificado o el archivo exportado.
 
@@ -203,9 +203,9 @@ Estas propuestas **todavía no son aplicaciones publicadas**. Reutiliza los prom
 
 | Materia | Propuesta | Qué experimenta el alumnado |
 |:--|:--|:--|
-| Primaria · Ciencias | **BioLab** | Recorrido de la sangre y funciones del corazón |
+| Ciencias · Cuerpo humano | **BioLab** | Recorrido de la sangre y funciones del corazón |
 | Lengua Castellana · ESO | **LenguaLab** | Análisis sintáctico con pistas |
-| EOI · Inglés A2 | **CityQuest** | Indicaciones y diálogos en un mapa |
+| Inglés · Orientación urbana | **CityQuest** | Indicaciones y diálogos en un mapa |
 | FP · Informática | **RedLab** | Red simulada y decisiones de seguridad |
 
 ### Plantilla breve para una nueva aplicación
