@@ -578,6 +578,6 @@ El lliurament inclourà:
 Continuar amb el Bloc 2 →
 
 <p style="text-align:center; color:gray; font-size:0.85em;">
-Curs 26IA92IN041 · 2a edició de 2026 · CEFIRE d'Intel·ligència Artificial i Pensament Computacional<br>
+Curs formación docente · 2a edició de 2026 · CEFIRE d'Intel·ligència Artificial i Pensament Computacional<br>
 Contingut sota llicència <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 </p>
