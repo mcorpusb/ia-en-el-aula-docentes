@@ -1,6 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
-title: "Seminario de Inteligencia Artificial · IES Gran Vía"
-description: "Materiales y actividades del seminario de inteligencia artificial para docentes del IES Gran Vía."
+title: "IA en el Aula: Herramientas y Recursos para Docentes"
+description: "Formación práctica en inteligencia artificial para docentes: herramientas, recursos y actividades para el aula."
 
 url: "https://mcorpusb.github.io"
 baseurl: "/seminario-ia-gran-via"
