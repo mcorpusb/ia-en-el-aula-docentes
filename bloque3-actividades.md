@@ -1,65 +1,46 @@
 ---
 layout: page
-title: "Actividades · Bloque 3"
+title: "Laboratorio multimodal · Retos docentes"
 parent: "Bloque 3: Generación Multimodal"
 nav_order: 1
 nav_exclude: true
 ---
 
-# Actividades · Bloque 3
+# Laboratorio multimodal · Elige tu creación docente
 {: .fs-8 }
 
-Propuestas y ejemplos por etapa para acompañar la actividad final del seminario.
-{: .fs-5 .fw-300 }
+Explora propuestas de audio, cuentos, infografías y aplicaciones interactivas. Como en el Bloque 1, los materiales se presentan por **reto y recurso**, no por etapa educativa.
 
-<div class="artifact-hero" markdown="1">
+**Actividad final:** crea un audio, un cuento y una aplicación interactiva. Los ejemplos son modelos que puedes adaptar a tu materia.
 
-En este laboratorio diseñarás un recurso educativo que combine texto, imagen, audio, vídeo o interacción con una finalidad didáctica clara. Elige la ruta de tu etapa, adapta los ejemplos a tu contexto y revisa siempre el resultado antes de utilizarlo en el aula.
-
-<div class="artifact-hero__meta" aria-label="Características del laboratorio">
-  <span>🎓 5 etapas educativas</span><span>🧩 Producto adaptable</span><span>✅ Revisión docente</span>
-</div>
-
-[Elegir una actividad](#actividades-por-etapa){: .btn .btn-primary }
-[Consultar el entregable](#entregable-general){: .btn }
-
-</div>
-
-## Actividades por etapa
+## Explora los recursos
 {: id="actividades-por-etapa" }
 
-Cada página contiene las propuestas, prompts y orientaciones específicas de su etapa. Aquí solo se ofrece el acceso para evitar duplicar contenidos.
-
-<div class="artifact-stages">
+<div class="artifact-levels">
   <article>
-    <span>EDUCACIÓN INFANTIL</span>
-    <h3>Crear, narrar y comunicar visualmente</h3>
-    <p>Recursos sencillos, visuales y emocionales para rutinas, hábitos, convivencia y expresión oral.</p>
-    <a href="{{ '/bloque3-actividad-infantil.html' | relative_url }}">Abrir actividad de Infantil <span aria-hidden="true">→</span></a>
+    <h3>Un cuento que cobra vida</h3>
+    <p>Historias ilustradas, guiones, voces y emociones para adaptar a tu grupo.</p>
+    <a href="{{ '/bloque3-comics-ejemplos.html' | relative_url }}">Explorar cuentos y cómics →</a>
   </article>
   <article>
-    <span>EDUCACIÓN PRIMARIA</span>
-    <h3>Explicar contenidos con varios formatos</h3>
-    <p>Materiales claros y atractivos para investigar, comprender procesos y comunicar lo aprendido.</p>
-    <a href="{{ '/bloque3-actividad-primaria.html' | relative_url }}">Abrir actividad de Primaria <span aria-hidden="true">→</span></a>
+    <h3>Una historia que se escucha</h3>
+    <p>Narraciones, diálogos, canciones y audios educativos con ElevenLabs y Gemini.</p>
+    <a href="{{ '/bloque3-audio.html' | relative_url }}">Explorar el taller de audio →</a>
   </article>
   <article>
-    <span>EDUCACIÓN SECUNDARIA</span>
-    <h3>Representar y comparar conceptos</h3>
-    <p>Propuestas multimodales para explicar, contrastar evidencias y desarrollar pensamiento crítico.</p>
-    <a href="{{ '/bloque3-actividad-secundaria.html' | relative_url }}">Abrir actividad de Secundaria <span aria-hidden="true">→</span></a>
+    <h3>Una imagen que explica y se mueve</h3>
+    <p>Infografías educativas y animación con Google Flow.</p>
+    <a href="{{ '/bloque3-infografias-flow.html' | relative_url }}">Explorar infografías animadas →</a>
   </article>
   <article>
-    <span>FORMACIÓN PROFESIONAL</span>
-    <h3>Documentar procesos profesionales</h3>
-    <p>Recursos aplicados a procedimientos, seguridad, comunicación técnica y situaciones del entorno laboral.</p>
-    <a href="{{ '/bloque3-actividad-fp.html' | relative_url }}">Abrir actividad de FP <span aria-hidden="true">→</span></a>
+    <h3>Una aplicación para aprender haciendo</h3>
+    <p>Simuladores, retos interactivos y prototipos creados con IA.</p>
+    <a href="{{ '/bloque3-artifacts.html' | relative_url }}">Explorar aplicaciones →</a>
   </article>
   <article>
-    <span>ESCUELA OFICIAL DE IDIOMAS</span>
-    <h3>Practicar comunicación y mediación</h3>
-    <p>Materiales para presentar contextos reales, modelar interacciones y trabajar destrezas lingüísticas.</p>
-    <a href="{{ '/bloque3-actividad-eoi.html' | relative_url }}">Abrir actividad de EOI <span aria-hidden="true">→</span></a>
+    <h3>Experiencias creativas listas para adaptar</h3>
+    <p>Del dibujo al cuento o juego, escape rooms y laboratorios interactivos.</p>
+    <a href="{{ '/bloque3-laboratorio-creativo.html' | relative_url }}">Explorar laboratorio creativo →</a>
   </article>
 </div>
 
@@ -90,7 +71,7 @@ Estas rutas amplían el trabajo del Bloque 3 sin sustituir la actividad elegida:
   </article>
 </div>
 
-**Nuevo:** [✨ Laboratorio creativo · Cinco experiencias listas para el aula]({{ '/bloque3-laboratorio-creativo.html' | relative_url }}) — dibujo a cuento o app, escape room, cuento con voz, podcast y quiz con pistas. Incluye tutoriales, prompts y ejemplos por etapa.
+**Nuevo:** [✨ Laboratorio creativo · Cinco experiencias listas para el aula]({{ '/bloque3-laboratorio-creativo.html' | relative_url }}) — dibujo a cuento o app, escape room, cuento con voz, podcast y quiz con pistas. Incluye tutoriales, prompts y ejemplos adaptables.
 
 ## Entregable general del Bloque 3
 {: id="entregable-general" }
@@ -99,7 +80,7 @@ Entrega **tres productos educativos** adaptados a tu contexto: **un audio**, **u
 
 Para cada producto, incluye el **archivo generado y/o un enlace accesible**, el **prompt utilizado** y una breve explicación de su finalidad didáctica. En la aplicación interactiva es especialmente importante aportar el **enlace funcional** para poder probarla.
 
-Los ejemplos por etapa son materiales de apoyo, no entregas adicionales.
+Los ejemplos son materiales de apoyo, no entregas adicionales.
 
 [Consultar la actividad general y sus formatos de entrega]({{ '/bloque3.html#--actividad--creación-de-recursos-multimodales-con-ia-para-el-aula' | relative_url }}){: .btn .btn-primary }
 
