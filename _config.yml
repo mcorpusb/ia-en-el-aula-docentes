@@ -3,7 +3,7 @@ title: "IA en el Aula: Herramientas y Recursos para Docentes"
 description: "Formación práctica en inteligencia artificial para docentes: herramientas, recursos y actividades para el aula."
 
 url: "https://mcorpusb.github.io"
-baseurl: "/seminario-ia-gran-via"
+baseurl: "/ia-en-el-aula-docentes"
 
 # Configuración de navegación
 nav_enabled: true
