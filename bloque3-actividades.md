@@ -3,13 +3,13 @@ layout: page
 title: "Actividades · Bloque 3"
 parent: "Bloque 3: Generación Multimodal"
 nav_order: 1
-nav_exclude: false
+nav_exclude: true
 ---
 
 # Actividades · Bloque 3
 {: .fs-8 }
 
-Laboratorio práctico de generación multimodal por etapa educativa.
+Propuestas y ejemplos por etapa para acompañar la actividad final del seminario.
 {: .fs-5 .fw-300 }
 
 <div class="artifact-hero" markdown="1">
@@ -95,11 +95,11 @@ Estas rutas amplían el trabajo del Bloque 3 sin sustituir la actividad elegida:
 ## Entregable general del Bloque 3
 {: id="entregable-general" }
 
-Entrega un **recurso multimodal final**, acompañado de:
+Entrega **tres productos educativos** adaptados a tu contexto: **un audio**, **un cuento** (ilustrado o narrado) y **una aplicación interactiva**.
 
-- el prompt utilizado;
-- una captura o un enlace al resultado;
-- una reflexión docente de 100-150 palabras que explique el público, la herramienta, la aportación del formato, los cambios realizados tras la revisión y su posible integración en una situación de aprendizaje.
+Para cada producto, incluye el **archivo generado y/o un enlace accesible**, el **prompt utilizado** y una breve explicación de su finalidad didáctica. En la aplicación interactiva es especialmente importante aportar el **enlace funcional** para poder probarla.
+
+Los ejemplos por etapa son materiales de apoyo, no entregas adicionales.
 
 [Consultar la actividad general y sus formatos de entrega]({{ '/bloque3.html#--actividad--creación-de-recursos-multimodales-con-ia-para-el-aula' | relative_url }}){: .btn .btn-primary }
 
